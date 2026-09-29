@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shivam Woodcraft Interiors">
+  <rect width="64" height="64" rx="12" fill="#2B2622"/>
+  <path d="M8 22c10-4 20 4 30 0s12-3 18-1M8 32c10-4 20 4 30 0s12-3 18-1M8 42c10-4 20 4 30 0s12-3 18-1" fill="none" stroke="#6A4226" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#D8B87E">S</text>
+  <path d="M14 53h10l3-5h10l3 5h10" fill="none" stroke="#B8935A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
